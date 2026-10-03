@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5327c78ff943a55aa8f4b444",
+  "owner": "yeqbrungek",
+  "repo": "page-fd3b43379df505567d93a4a6",
+  "title": "Mitce",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fd3b43379df505567d93a4a6",
+      "a": "Mitce",
+      "b": "",
+      "entity": "Mitce",
+      "brand": "Mitce",
+      "separator": "",
+      "path": "index.html",
+      "hash": "36604d9d43377a17df226308869c5e4b34ee570b318c15bf45459dfa976d2f20",
+      "content": {
+        "keyword1": "Mitce",
+        "keyword2": "",
+        "primary_entity": "Mitce",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Mitce 提供高品质机场订阅与VPN网络加速服务，支持多设备客户端下载与导入，覆盖办公、流媒体和游戏场景，欢迎访问官网选购套餐并获取官方下载指引。",
+          "AI_DESCRIPTION": "Mitce 提供高品质机场订阅与VPN网络加速服务，支持多设备客户端下载与导入，覆盖办公、流媒体和游戏场景，欢迎访问官网选购套餐并获取官方下载指引。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,sans-serif;background:#071422;color:#dbeafe;font-size:17px;line-height:1.65;overflow-x:hidden}a{color:#22d3ee;text-decoration:none}header{background:#04101c;border-bottom:1px solid #155e75;padding:14px 16px}.nav{display:flex;flex-wrap:wrap;gap:12px;max-width:720px;margin:0 auto}main{max-width:720px;margin:0 auto;padding:8px 16px 40px}h1{font-size:1.75rem;color:#67e8f9;margin:28px 0 12px;font-weight:700}h2{font-size:1.35rem;color:#22d3ee;margin:36px 0 14px;padding-bottom:6px;border-bottom:1px solid #164e63}h3{font-size:1.1rem;color:#a5f3fc;margin:22px 0 8px}.lead{font-size:1.05rem;color:#bfdbfe;margin-bottom:20px}p{margin:0 0 12px}.plan{background:#0c2137;border:1px solid #1e3a5f;border-radius:10px;padding:18px;margin:0 0 14px}.plan.feat{border:2px solid #06b6d4;background:#0e2a45}.badge{display:inline-block;background:#0891b2;color:#ecfeff;font-size:0.75rem;padding:2px 8px;border-radius:4px;margin-bottom:8px}.price{font-size:1.6rem;color:#22d3ee;margin:8px 0}.annual{color:#7dd3fc;font-size:0.95rem}.plan ul{margin:8px 0 0 18px}.plan li{margin:4px 0}.step-list{list-style:none;padding:0;margin:0;counter-reset:s}.step-list li{position:relative;padding:12px 12px 12px 48px;margin:0 0 12px;background:#0c2137;border-radius:8px;counter-increment:s}.step-list li:before{content:counter(s);position:absolute;left:12px;top:12px;width:26px;height:26px;background:#0891b2;color:#fff;border-radius:50%;text-align:center;line-height:26px;font-size:0.9rem;font-weight:700}details{background:#0c2137;border:1px solid #164e63;border-radius:8px;padding:4px 14px;margin:0 0 10px}summary{padding:10px 0;font-weight:600;color:#67e8f9}details p{padding:0 0 12px;color:#bfdbfe;margin:0}.box{background:#0c2137;padding:16px;border-radius:8px;margin:12px 0}footer{background:#04101c;color:#93c5fd;padding:24px 16px;font-size:0.88rem}.foot-inner{max-width:720px;margin:0 auto}.ad{border:1px dashed #155e75;padding:12px;margin:16px 0;color:#7dd3fc}.links{margin:12px 0;display:flex;flex-wrap:wrap;gap:10px}.sitemap{margin-top:16px}.sitemap a{margin-right:10px;display:inline-block}</style><header><nav class=\"nav\"><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#guide\">使用步骤</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><main><h1>Mitce 官方网站</h1><p class=\"lead\">Mitce 专注机场订阅与 VPN 网络加速，为用户提供可导入多端客户端的稳定梯子服务。本页介绍套餐、使用场景、操作步骤及官网下载注意事项，帮助你快速完成配置并开始加速。</p><section id=\"intro\"><h2>品牌简介</h2><p>Mitce 是面向个人与团队的网络加速品牌。我们以机场订阅模式交付节点资源，用户可在 Clash、Shadowrocket、Surge 等主流客户端中一键更新线路。Mitce VPN 体验强调线路质量与流媒体可用性，同时提供 IPLC 方向的游戏优化选项。</p><p>选择 Mitce 官网办理业务，可避免非官方渠道的失效订阅与安全风险。节点覆盖亚洲主要出口以及欧美骨干，日常跨境访问、视频会议与资料检索均可使用。本站展示的套餐与操作说明以官方网站为准。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为 Mitce 当前固定套餐，流量按自然月重置，支持年付优惠。旗舰版适合大多数需要流媒体与游戏优化的进阶用户。</p><div class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan feat\"><div class=\"badge\">推荐</div><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与协作</h3><p>海外云文档、代码仓库与会议软件在高峰时段常出现超时。Mitce 普通与专线节点可分流国际流量，降低握手失败率，适合远程岗位与自由职业者。</p><h3>流媒体与资讯</h3><p>旗舰版强调原生解锁，便于观看主流平台内容与阅读外站资讯。请遵守当地法律法规及平台条款，合理使用加速服务。</p><h3>游戏与实时通讯</h3><p>IPLC 游戏加速优化面向对延迟敏感的玩家。团队版还可为工作室配置更固定的出口策略。</p><h3>多设备与小团队</h3><p>同一订阅可在电脑、手机与平板间切换。设备台数以套餐上限为准，超出可能挤占在线会话。</p></section><section id=\"guide\"><h2>操作说明</h2><p>按照下列纵向步骤，即可从选购到成功连接 Mitce 节点。全程可在官网用户中心与本地客户端完成。</p><ol class=\"step-list\"><li><strong>选择并开通套餐</strong><br>根据流量与设备数量挑选基础版、旗舰版或团队版，完成支付后账户即时到账。</li><li><strong>复制机场订阅地址</strong><br>登录 Mitce 用户中心，在订阅页面复制通用链接或按客户端类型导出。</li><li><strong>安装官方推荐客户端</strong><br>前往各客户端项目的正式发布页下载，详见下方客户端与官网下载说明。</li><li><strong>导入订阅并更新节点</strong><br>在客户端粘贴订阅地址，执行更新，确认出现 Mitce 节点列表。</li><li><strong>选择节点并开启系统代理</strong><br>按延迟或用途挑选线路，开启 Tun 或系统代理后即可访问。遇到问题可切换协议或节点。</li></ol><p>首次使用建议先用浏览器访问常用站点验证，再开启规则分流，避免本地局域网设备被误代理。</p></section><section id=\"download\"><h2>客户端与官网下载</h2><p>Mitce 本身提供机场订阅而非捆绑安装包。请从客户端作者的官方渠道获取软件，再导入 Mitce 订阅，这是最稳妥的官网下载与使用方式。</p><h3>桌面端</h3><p>Windows 与 macOS 可使用 Clash 系图形客户端，导入后支持规则分流与系统代理。请核对发布来源，避免第三方改包。</p><h3>移动端</h3><p>iOS 常用商店应用导入订阅；Android 可使用开源 Clash Meta 系应用。系统版本过低可能无法使用较新内核。</p><h3>进阶与路由</h3><p>熟悉配置文件的用户可使用命令行内核。路由器需确认插件支持订阅自动更新。团队版可申请定制路由策略说明。</p><div class=\"box\"><p>重要提示：任何声称「Mitce 官方客户端安装包」却要求关闭安全软件或来自网盘的来源，均不可信。请只在 Mitce 官网获取订阅，在软件官方站点完成客户端下载。</p></div></section><section id=\"faq\"><h2>常见问题</h2><p>以下整理了关于 Mitce 机场订阅、VPN 加速与客户端的高频疑问，展开即可查看说明。</p><details><summary>Mitce 是机场还是传统 VPN？</summary><p>Mitce 以机场订阅方式提供多节点、多协议资源，用户在自选客户端中使用，灵活度高于单一品牌 VPN 应用。你仍可将其理解为用于网络加速的梯子服务，只是配置方式更开放。</p></details><details><summary>怎样完成客户端下载并导入 Mitce 订阅？</summary><p>先在 Mitce 官网开通套餐并复制订阅链接，再根据设备前往 Clash、Shadowrocket 等软件的官方页面下载安装。打开客户端后粘贴订阅、更新节点即可。不要下载来路不明的一键包。</p></details><details><summary>三个套餐如何选择？流量不够怎么办？</summary><p>轻度浏览选基础版；需要流媒体与游戏优化选旗舰版；多人共用或大流量选团队版。月流量用尽后加速会受限，可升级套餐或等待重置，年付用户同等享受对应额度。</p></details><details><summary>支持哪些流媒体和游戏加速？</summary><p>基础版覆盖基础流媒体；旗舰版起为全节点原生解锁方向优化，并含 IPLC 游戏加速。具体剧集或区服可用性会随线路变化，建议在客户端内切换节点测试。</p></details><details><summary>设备数量超限会怎样？</summary><p>同时在线设备超过套餐上限时，新连接可能失败或挤掉旧会话。基础版 3 台、旗舰版 5 台、团队版 20 台。电脑与手机都计入在线数。</p></details><details><summary>节点慢或无法连接如何处理？</summary><p>先更新订阅，更换协议或地区节点，检查本地时间与系统代理模式。仍失败可通过工单反馈，旗舰版享有 7x24 优先支持，团队版有专属客户经理。</p></details><details><summary>在哪里可以确认这是 Mitce 官网？</summary><p>请收藏并仅通过你信任的 Mitce 官方网站入口登录。本页套餐价格与功能与用户中心展示应保持一致。切勿在社交群里的短链付款或下载所谓破解客户端。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"foot-inner\"><p>Mitce 官方网站 · 机场订阅与 VPN 网络加速服务</p><div class=\"ad\">合作广告位：云主机与企业邮箱服务咨询（展示合作信息，非 Mitce 产品本身）</div><p>友情链接</p><div class=\"links\"><a href=\"#\">网络工具导航</a><a href=\"#\">开源客户端文档</a><a href=\"#\">隐私保护指南</a><a href=\"#\">全球节点状态</a></div><div class=\"sitemap\">网站地图： <a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></div><p>© Mitce. 使用加速服务请遵守所在地法律法规。本站为信息展示与指引页面。</p></div></footer>",
+          "hash": "b3b8add0a5290159f900733c209bcf13e2f3b7d45a08c12698db8e991fb4fde9",
+          "seo": {
+            "title": "Mitce官网 - 机场订阅、VPN梯子网络加速与客户端下载",
+            "keywords": "Mitce,Mitce机场,Mitce VPN,机场订阅,VPN加速器,梯子,网络加速,客户端下载,官网下载,IPLC,流媒体解锁",
+            "description": "Mitce 提供高品质机场订阅与VPN网络加速服务，支持多设备客户端下载与导入，覆盖办公、流媒体和游戏场景，欢迎访问官网选购套餐并获取官方下载指引。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "eeelife.cn",
+    "host": "p-68efb7e4eb.eeelife.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "eeelife.cn",
+      "url": "https://eeelife.cn/",
+      "label": "狗子",
+      "apex": "eeelife.cn",
+      "kind": null,
+      "identity": "uedepyts/page-3317515d4df08867754eb391"
+    },
+    {
+      "host": "100yaofang.com",
+      "url": "https://100yaofang.com/",
+      "label": "Mitce",
+      "apex": "100yaofang.com",
+      "kind": null,
+      "identity": "wan9900/page-5b9b991ca5f024376f02501c"
+    },
+    {
+      "host": "mklfkj.com",
+      "url": "https://mklfkj.com/",
+      "label": "Mitce",
+      "apex": "mklfkj.com",
+      "kind": null,
+      "identity": "jichangdaquan999/page-04e1c9e2f3ecccf1d7522cf3"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "58b988483d83d1df1e9a070c15715da906d0f0afa8a94b5f4c08dcb14579fe41",
+    "sitemap.xml": "3b39f55b9e85ee78ab6fd0c4433108051d75f6db1e35d62da8f0f3ce7e7ca960",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6a29b74aef4aa4132b81a5af185b8ac026666b3d33edccf51803805bade45498",
+    "robots.txt": "7971da441079df415c92a61a95e0ab31740bc7382c2837094f9a389fb6049c93",
+    "8bba7f37fb9cc2e7531dc583e7ccbccc.txt": "352b6a7841a142b82036c98aceea8249b39be335f2932a5b76d506ed8be87d38"
+  },
+  "revision": "9272eac0cf30b6f008d8ee3404f3cc0d65d0b40fd5aeb5d6d34d140db0875784"
+}

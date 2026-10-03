@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-68efb7e4eb.eeelife.cn/sitemap.xml
